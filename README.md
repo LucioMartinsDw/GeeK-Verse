@@ -57,11 +57,11 @@ Através do site interativo, buscamos uma comunicação próxima com os usuário
 
 Junte-se ao Geekverse e deixe sua paixão pela cultura geek ser celebrada todos os meses!
 
-# Contribuição:
+# Web Developers responsáveis:
 
+- Lucio Martins
 - André Luiz dos Santos
 - Emerson Chagas
-- Lucio Martins
 - Pan dos Santos
 - Taw Simões
 
